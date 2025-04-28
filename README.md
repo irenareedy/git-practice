@@ -1,3 +1,4 @@
+# git checkout -b update-name
 # Practice with git and GitHub
 
 \[Your Step 3 Edit Here\]
